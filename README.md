@@ -1,1 +1,2 @@
-# GCCF_HandsOnLabs
+# Google Cloud Computing Foundations
+
