@@ -17,6 +17,9 @@
 > **Qwiklabs Public Profile:**
 > **[https://www.qwiklabs.com/public_profiles/abe0f2a5-82c9-455d-9d65-ef8645546670](https://www.qwiklabs.com/public_profiles/abe0f2a5-82c9-455d-9d65-ef8645546670)**
 
+> **Drive Link for Project Files:**
+> **[https://drive.google.com/drive/folders/1Hc6TFRYbGcQbnpcCDEOURFwqtT4mhXyG?usp=sharing](https://drive.google.com/drive/folders/1Hc6TFRYbGcQbnpcCDEOURFwqtT4mhXyG?usp=sharing)**
+
 ---
 
 ## Project Configuration in Google Cloud Platform
